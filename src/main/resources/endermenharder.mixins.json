@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.d410w.endermenharder.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "endermenharder.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
